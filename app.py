@@ -25,7 +25,7 @@ header {visibility: hidden;}
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 # Configure Gemini API
-GEMINI_API_KEY = "AIzaSyD6zblME2aAIq3PEs07LGHAaWzmLXoALpM"
+GEMINI_API_KEY = "XOXXXXXXXXXXXXXXXXXXXXXXXXXXXX"#YOUR API KEY
 genai.configure(api_key=GEMINI_API_KEY)
 
 # --- CUSTOM CSS ---
