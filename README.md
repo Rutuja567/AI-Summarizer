@@ -1,9 +1,10 @@
-# AI-Summarizer
-Overview
+# Texer - AI-Powered Summarization
+
+**Overview**
 
 Texter is an AI-based summarization app built with Streamlit and powered by Google Gemini AI. It summarizes text, PDFs, Word, Excel, video, and audio with a sleek Gen Z aesthetic.
 
-Features
+**Features**
 
 Supports multiple formats (text, documents, video, audio).
 
